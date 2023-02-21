@@ -12,7 +12,7 @@ create a repo
 git clone <link>
 }
 
-(After Every changes made )
+(After Every changes made ){
 git status
 
 git add .
@@ -23,5 +23,5 @@ git commit -m "Meaning full message"
 
  git push origin main
 
-
+}
 
